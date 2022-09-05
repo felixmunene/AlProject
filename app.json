@@ -1,0 +1,29 @@
+{
+  "id": "829f3492-cf41-4aa4-bd35-ebe52308f941",
+  "name": "Trade Documents Ext",
+  "publisher": "Stemic LLC",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Changes Requested to Trade documents",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
