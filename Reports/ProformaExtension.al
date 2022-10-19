@@ -81,6 +81,7 @@ reportextension 50102 "Pro Forma" extends "Standard Sales - Pro Forma Inv"
     trigger OnPreReport()
 
     begin
+        
         CompanyInfo.GET();
         Thankstxt := 'Thank You For Your Business !';
         BankingInfo[1] := 'Account Name';
